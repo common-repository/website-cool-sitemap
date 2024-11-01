@@ -1,0 +1,62 @@
+/*  Copyright 2018 Marco Dalprato (email : marcodalprato@me.com)
+
+    This program is free software; you can redistribute it and/or modify
+    it under the terms of the GNU General Public License as published by
+    the Free Software Foundation; either version 2 of the License, or
+    (at your option) any later version.
+
+    This program is distributed in the hope that it will be useful,
+    but WITHOUT ANY WARRANTY; without even the implied warranty of
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+    GNU General Public License for more details.
+
+    You should have received a copy of the GNU General Public License
+    along with this program; if not, write to the Free Software
+    Foundation, Inc., 51 Franklin St, Fifth Floor, Boston, MA  02110-1301  USA
+*/
+
+
+/* FOREGROUND PAGE CSS */
+
+/* Category Style */
+
+a.wcs_category_post_link:link {color:black !important;}
+a.wcs_category_post_link:visited {color:black !important;}
+a.wcs_category_post_link:hover {color:black !important;}
+
+a.wcs_category_title_link:link {color:black !important;}
+a.wcs_category_title_link:visited {color:black !important;}
+a.wcs_category_title_link:hover {color:black !important;}
+
+/* Post Style */
+
+
+a.wcs_post_title_link:link {color:black !important;}
+a.wcs_post_title_link:visited {color:black !important;}
+a.wcs_post_title_link:hover {color:black !important;}
+
+/* Tag Style */
+
+
+a.wcs_tag_title_link:link {color:black !important;}
+a.wcs_tag_title_link:visited {color:black !important;}
+a.wcs_tag_title_link:hover {color:black !important;}
+
+.wcs_coolsitemap ul {
+    -webkit-column-count: 2;
+    -moz-column-count: 2;
+    column-count: 2;
+    list-style-type:circle;
+}
+
+/* ADMIN PANEL CSS */
+
+.wcs_input{
+ 
+  	width: 500px !important;
+
+}
+
+
+
+
